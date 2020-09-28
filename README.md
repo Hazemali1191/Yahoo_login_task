@@ -1,5 +1,5 @@
 # Yahoo_login_task
-Automation scripts for yahoo login page using Java, Maven and TestNG
+Automation scripts for yahoo login page using Java, Maven, TestNG and POM
 
 
 #Tech Stach:
