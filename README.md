@@ -8,4 +8,4 @@ Automation scripts for yahoo login page using Java, Maven, TestNG and POM
 - TestNG
 - DDT
 
-it's small task for Yahoo login
+it's task to run all positive and	negative scenarios for Yahoo login page
